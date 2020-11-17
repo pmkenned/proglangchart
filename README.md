@@ -27,6 +27,7 @@ Languages:
 * Erlang
 * Tcl
 * Awk
+* AMPL 
 * Bash
 * Logo
 * Perl
